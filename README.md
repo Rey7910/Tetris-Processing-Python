@@ -21,11 +21,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-  [1]: https://github.com/jdf/processing.py
+[MIT](https://choosealicense.com/licenses/mit/) licence. Feel free to use this code for your personal projects or for business. The code is designed to be as readable as possible.
 
 ## Author
 This game, with all the provided source code, was developed by José Luis Ávila for the Object Oriented Programming course at Universidad Nacional de Colombia. 
 Date: October 2020
+
+[1]: https://github.com/jdf/processing.py
+

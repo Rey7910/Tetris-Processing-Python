@@ -4,7 +4,7 @@ This is a version of the classic tetris game developed with the python module fo
 
 ## Requirements
 
- - Python processing library,download and install [here][1] 
+ - Processing Ide + Python library. Download and install [here][1] 
  - Java 7 or higher
 
 ## Usage
